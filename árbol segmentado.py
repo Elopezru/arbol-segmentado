@@ -66,10 +66,10 @@ if __name__ == "__main__" :
     build(a);  
       
     # print the sum in range(1,2) index-based  
-    print(query(0, 12));  
+    print(query(1, 3));  
       
     # modify element at 2nd index  
     updateTreeNode(2, 1);  
       
     # print the sum in range(1,2) index-based  
-    print(query(1, 2)); 
+    print(query(1, 3)); 
